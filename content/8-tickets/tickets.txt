@@ -1,6 +1,7 @@
 Title: Tickets
 ----
 
+<<<<<<< HEAD
 Text: ####Vorverkaufsstellen: 
 Buchhandlung Gessler 1862
 Café im Rathaus
@@ -8,5 +9,12 @@ Zeppelin Universität Fallenbrunnen 3, Mensa
 
 VVK-Preis: 11€ (gilt am 30. April bis 18 Uhr)
 Abendkasse am 30. April ab 18 Uhr: 14€
+=======
+Text: Freut Euch schon auf die Lange Nacht der Musik 2016 - wieder am **30. April** im Kulturhaus Caserne in Friedrichshafen!
+ 
+In den nächsten Wochen und Monaten werden hier laufend die 15 Acts der kommenden Langen Nacht der Musik vorgestellt. Außerdem gibt es hier nach und nach alle wichtigen Informationen rund um die Veranstaltung.
+ 
+Stay tuned!
+>>>>>>> 5b6d2e1af00952f55bfdf2d996a99f3b5016e5b0
 
 ----
