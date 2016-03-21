@@ -30,8 +30,8 @@ footer, header, hgroup, main, nav, section, summary {
 -------------------------------------------------- */
 img {
   display: block;
-  max-width: 100%;
-  margin:0 auto;
+  max-width: 40%;
+  margin:0;
 }
 
 
@@ -230,6 +230,7 @@ h4 {
   font-size: 1.125em;
   font-weight: 600;
   line-height: 1.5em;
+  margin-top: 1em;
   margin-bottom: .5em;
   color: red;
 }
@@ -237,7 +238,6 @@ h1 a, h2 a, h3 a, h4 a {
   color: inherit;
   border: 0 !important;
 }
-
 
 
 /* Main
@@ -253,7 +253,6 @@ h1 a, h2 a, h3 a, h4 a {
   padding-top: 60px;
 }
 
-
 .main hr {
   margin: 3em 0;
   height: 2px;
@@ -264,6 +263,8 @@ h1 a, h2 a, h3 a, h4 a {
 .main ul,
 .main ol {
   margin-bottom: 1.5em;
+  margin-top: 1.5em;
+  margin-right: 2.2em;
 }
 .main a {
   border-bottom: 2px solid #ddd;
@@ -342,6 +343,7 @@ h1 a, h2 a, h3 a, h4 a {
 }
 .copyright {
   float: left;
+  margin-bottom: 1em;
 }
 .colophon {
   float: right;
@@ -349,6 +351,17 @@ h1 a, h2 a, h3 a, h4 a {
 .colophon a b {
   color: red;
   padding-left: .25em;
+}
+.container {
+  margin-top: 3em;
+  padding: 0.5em 1em 0 1.5em;
+  background-color: #fff;
+  height: 18em;
+  border-radius: 0.5em;
+}
+.container img {
+  float: left;
+  margin-right: 1.5em;
 }
 
 
