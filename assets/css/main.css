@@ -274,6 +274,19 @@ h1 a, h2 a, h3 a, h4 a {
   border-color: #222;
 }
 
+/*images*/
+.img {
+  width: 30%;
+}
+.text figure {
+  display: block;
+  box-sizing: border-box;
+ /* float: left;*/
+}
+.text figure img {
+  margin-right: 1em;
+}
+
 /* Text blocks */
 .text ul,
 .text ol {
@@ -345,6 +358,17 @@ h1 a, h2 a, h3 a, h4 a {
   float: left;
   margin-bottom: 1em;
 }
+.container {
+  margin-top: 3em;
+  padding: 0.5em 1em 0 1.5em;
+  background-color: #fff;
+  height: 16em;
+  border-radius: 0.5em;
+}
+.container img {
+  float: left;
+  margin-right: 1.5em;
+}
 .colophon {
   float: right;
 }
@@ -352,16 +376,4 @@ h1 a, h2 a, h3 a, h4 a {
   color: red;
   padding-left: .25em;
 }
-.container {
-  margin-top: 3em;
-  padding: 0.5em 1em 0 1.5em;
-  background-color: #fff;
-  height: 18em;
-  border-radius: 0.5em;
-}
-.container img {
-  float: left;
-  margin-right: 1.5em;
-}
-
 
