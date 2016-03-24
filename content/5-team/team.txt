@@ -1,5 +1,4 @@
-Title: Team 2016
-
+Title: Team 
 ----
 Text:
 (image: teamfoto2.jpg)
