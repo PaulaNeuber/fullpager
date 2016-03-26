@@ -1,16 +1,16 @@
-Title: Kirby Starterkit
+Title: Lange Nacht der Musik
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author: Lange Nacht der Musik
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description: Lange Nacht der Musik
 
 ----
 
-Keywords: Kirby, CMS, file-based
+Keywords: music festival, friedrichshafen, music
 
 ----
 
