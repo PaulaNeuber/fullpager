@@ -2,12 +2,16 @@ Title: Galerie
 ----
 
 Text: Das war die Lange Nacht der Musik 2015 - 
+<<<<<<< HEAD
+=======
+(youtube: https://www.youtube.com/watch?v=P2QVCR8yadMwidth: 600 height: 400)
+>>>>>>> origin/master
 
-(image: 2015_Casino.jpg) 
-(image: 2015_Dose.jpg)
-(image: 2015_Duo.jpg)
-(image: 2015_Hof.jpg)
-(image: 2015_Hof2.jpg)
-(image: 2015_Hof3.jpg)
+(image: 2015_Casino.jpg width: 600 height: 400) 
+(image: 2015_Dose.jpg width: 600 height: 400)
+(image: 2015_Duo.jpg width: 600 height: 400)
+(image: 2015_Hof.jpg width: 600 height: 400)
+(image: 2015_Hof2.jpg width: 600 height: 400)
+(image: 2015_Hof3.jpg width: 600 height: 400)
 
 ----
