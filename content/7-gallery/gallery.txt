@@ -1,0 +1,24 @@
+Title: Galerie
+----
+
+Text: **Das war die Lange Nacht der Musik 2015**
+
+(youtube: https://www.youtube.com/watch?v=P2QVCR8yadMwidth: 450 height: 350)
+
+_Eindrücke 30. April 2015_
+
+(image: 2015_Casino.jpg)
+(image: 2015_Duo.jpg)
+(image: 2015_Dose.jpg)
+(image: 2015_Hof2.jpg)
+(image: 2015_Hof3.jpg)
+(image: 2015_Luft.jpg)
+(image: 2015_Prod.jpg)
+(image: 2015_Prod2.jpg)
+(image: 2015_Prod3.jpg)
+(image: 2015_Rasga.jpg)
+(image: 2015_Refugium.jpg)
+(image: 2015_Sonic.jpg)
+(image: 2015_Strass.jpg)
+
+----
