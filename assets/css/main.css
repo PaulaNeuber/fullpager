@@ -291,7 +291,7 @@ top: 0px;
 
 }
 
-.gallery ul li {
+.gallery img {
   display: inline-block;
   width: 25%;
   margin-right: 6.66665%;
@@ -299,8 +299,9 @@ top: 0px;
   position: relative;
 }
 
-.gallery ul li img {
-  display: block;
+.gallery img {
+  display: float;
+  float: left;
   width: 200%;
   height: 200%;
 }
