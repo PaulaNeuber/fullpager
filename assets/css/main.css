@@ -243,7 +243,7 @@ top: 0px;
   width: 10%;
 }
 
-
+}
 .artists ul li:hover .link {
   display: block;
   position: absolute;
@@ -273,6 +273,37 @@ top: 0px;
 .artists ul li img {
   display: block;
   width: 100%;
+}
+
+/* Gallery
+-------------------------------------------------- */
+
+.responsive-image {
+  height: auto;
+  width: 100%;
+}
+#gallery{
+  background-color: rgba(215,218,219,0.4);
+  padding: 60px;
+  border-radius: 0px 0px 0px 0px;
+  padding-right:60px;
+  padding-left:60px;
+
+}
+
+.gallery img {
+  display: inline-block;
+  width: 25%;
+  margin-right: 6.66665%;
+  overflow: hidden;
+  position: relative;
+}
+
+.gallery img {
+  display: float;
+  float: left;
+  width: 200%;
+  height: 200%;
 }
 
 /* Headings
@@ -338,9 +369,7 @@ h1 a, h2 a, h3 a, h4 a {
 }
 .main {
   border-bottom: 2px solid #ddd;
- 
 }
-
 
 .main p{
 /*   width: 66%;*/
@@ -361,6 +390,8 @@ h1 a, h2 a, h3 a, h4 a {
 }
 .text figure img {
   margin-right: 1em;
+  width: 50%;
+  height: 50%;
 }
 
 /* Text blocks */
@@ -458,8 +489,8 @@ h1 a, h2 a, h3 a, h4 a {
 .text figure img {
   display:block;
     margin-right: auto;
-    margin-left:auto;
-    width: 80%;
+    margin-left:.2em;
+    width: 40%;
 }
 .title p {
       font-weight: bold;

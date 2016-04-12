@@ -1,15 +1,13 @@
-Title: Team 
+Title: Team 2016
 ----
 Text:
+
 (image: teamfoto2.jpg)
 _mit:_ 
-Ildiko Gartner, Rebekka Koch,
-Clara Zimmermann, Andreas Schellewald, Paula Neuber,
-Billy Contreras,
-Jamin Schneider, Jonathan Dudek,
-Nils Philippi.
+Ildiko Gartner, Rebekka Koch, Clara Zimmer-
+mann, Andreas Schellewald, Paula Neuber, Billy Contreras, Jamin Schneider, Jonathan Dudek, Nils Philippi.
 
-Es fehlen:
+_Nicht auf dem Foto:_
 Luise Kunz, Elias Keßler, Franziska Möhrle, Britta Ullrich
 _(Photograf: Eric Holst)_
 

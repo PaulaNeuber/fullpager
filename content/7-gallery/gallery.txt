@@ -1,0 +1,24 @@
+Title: Galerie
+----
+
+Text: **Die Lange Nacht der Musik 2015**
+
+(youtube: https://www.youtube.com/watch?v=P2QVCR8yadMwidth: 450 height: 350)
+
+_Eindrücke 30. April 2015_
+
+(image: 2015_Casino.jpg caption: Jugendsinfonieorchester FN)
+(image: 2015_Duo.jpg caption: Duo Flöte-Marimba im Atrium)
+(image: 2015_Dose.jpg caption: DJ Der Dose)
+(image: 2015_Hof2.jpg caption: Im Innenhof)
+(image: 2015_Hof3.jpg caption: Im Innenhof)
+(image: 2015_Luft.jpg caption: Luftschiffkapelle im Refugium)
+(image: 2015_Prod.jpg caption: Einomrah im Produktionsraum)
+(image: 2015_Prod2.jpg caption: gebannte Zuhörer im Produktionsraum)
+(image: 2015_Prod3.jpg caption: It's a Boy im Produktionsraum)
+(image: 2015_Rasga.jpg caption: RasgaRasga)
+(image: 2015_Refugium.jpg caption: Minor Movement im Refugium)
+(image: 2015_Sonic.jpg caption: Sonic the Machine)
+(image: 2015_Strass.jpg caption: Straßenmusiker im Innenhof)
+
+----
