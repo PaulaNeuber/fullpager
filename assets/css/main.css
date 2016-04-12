@@ -343,7 +343,7 @@ h1 a, h2 a, h3 a, h4 a {
 
 
 .main p{
-   width: 40%;
+/*   width: 66%;*/
    text-align: justify;
 }
 .main a:hover {
@@ -460,4 +460,10 @@ h1 a, h2 a, h3 a, h4 a {
     margin-right: auto;
     margin-left:auto;
     width: 80%;
+}
+.title p {
+      font-weight: bold;
+    font-size: 1.5em;
+    text-align: center;
+}
 }
