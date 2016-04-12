@@ -123,8 +123,8 @@ top: 0px;
 .menu .active {
  font-size:1.15em;
  text-transform: uppercase;
-  border-top: 4px solid #ffffff;
-  border-bottom: 4px solid #ffffff;
+/*  border-top: 4px solid #ffffff;
+  border-bottom: 4px solid #ffffff;*/
 }
 
 .menu li {

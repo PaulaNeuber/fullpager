@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 Title: 50 Musiker, 15 Genres, 5 Bühnen. EINE NACHT
-=======
-Title: **Lange Nacht der Musik**
->>>>>>> origin/master
 ----
 
 Text: Freut Euch schon auf die Lange Nacht der Musik 2016 - wieder am **30. April** im Kulturhaus Caserne in Friedrichshafen!
@@ -11,11 +8,8 @@ In den nächsten Wochen und Monaten werden hier laufend die 21 Acts  vorgestellt
  
 Stay tuned!
 
-(image: timetable.png)
+
 (youtube: https://www.youtube.com/embed/P2QVCR8yadM width: 500 height: 300)
 
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/master
 ----
