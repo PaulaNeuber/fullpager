@@ -98,12 +98,18 @@ top: 0px;
 .navbar {
   margin:10px 0px 50px 0px;
   width:100%;
+  text-align: center;
 }
 
 .menu ul li{
-  display:inline;
+  display:inline-block;
+  list-style: none;
 }
 
+/*.menu ul li{
+  display:inline;
+}
+*/
 .menu a {
   color: white;
   width: 100%;
@@ -205,13 +211,13 @@ top: 0px;
   height: auto;
   width: 100%;
 }
+
 #artists{
   background-color: rgba(215,218,219,0.4);
   padding: 60px;
   border-radius: 0px 0px 0px 0px;
   padding-right:60px;
   padding-left:60px;
-
 }
 
 .artist ul {
@@ -238,10 +244,7 @@ top: 0px;
   bottom: 0;
   left: 0;
   right: 0;
-}
-.team img{
-  width: 10%;
-}
+
 
 }
 .artists ul li:hover .link {
@@ -308,11 +311,15 @@ top: 0px;
 
 /* Headings
 -------------------------------------------------- */
+
 h1 {
   font-size: 1em;
   line-height: 1.25em;
   font-weight: 400;
   margin-bottom: .5em;
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: center;
 }
 h2 {
   font-size: 2em;
@@ -390,8 +397,8 @@ h1 a, h2 a, h3 a, h4 a {
 }
 .text figure img {
   margin-right: 1em;
-  width: 50%;
-  height: 50%;
+ /* width: 50%;
+  height: 50%;*/
 }
 
 /* Text blocks */
@@ -490,7 +497,7 @@ h1 a, h2 a, h3 a, h4 a {
   display:block;
     margin-right: auto;
     margin-left:.2em;
-    width: 40%;
+    /*width: 40%;*/
 }
 .title p {
       font-weight: bold;
