@@ -11,12 +11,12 @@
       <img src="<?php echo $site->url() ?>/assets/images/WebseiteInhalte/BodenseekreisStiftung.jpg" class="responsive-image">
     </div>
     <div class="colophon">
-      <a href="http://getkirby.com/made-with-kirby-and-love">Made with Kirby and <b>♥</b></a>
+      <a>Made with<b>♥</b></a>
     </div>
 
       <div class="copyright">
       <a href="<?php echo $site->url() ?>/impressum"><?php echo $site->copyright()->kirbytext() ?></a>
-    </div>
+  
 
   </footer>
 

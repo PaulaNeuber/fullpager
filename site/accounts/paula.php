@@ -8,7 +8,7 @@ language: en
 role: admin
 history:
   - lineup/der-dose
+  - team
+  - tickets
   - galerie
   - lineup/sonic-the-machine
-  - lineup
-  - home
