@@ -1,6 +1,0 @@
-Title: Blog
-----
-Date: 3.3.16
-----
-Text: Das ist unser Blog.
-----

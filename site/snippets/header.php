@@ -13,7 +13,6 @@
 <link href='https://fonts.googleapis.com/css?family=Raleway:400,400italic,700,600' rel='stylesheet' type='text/css'>
 </head>
 <body>
-
   <header class="header cf" role="banner">
     <a class="logo" href="<?php echo url() ?>">
       <img src="<?php echo url('assets/images/logo.jpg') ?>" alt="<?php echo $site->title()->html() ?>" /> 
