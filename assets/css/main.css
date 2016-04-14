@@ -26,12 +26,10 @@ footer, header, hgroup, main, nav, section, summary {
 }
 
 
-
-
 /* Links
 -------------------------------------------------- */
 a {
-  color: #000;
+  color: rgba(215,218,219,0.6);
   text-decoration: none;
   transition: color .3s, background .3s, border .3s;
 }
@@ -59,7 +57,7 @@ html {
 }
 body {
   margin: 0 auto;
-  font-size: 1.25em;
+  font-size: 1.15em;
   line-height: 1.5em;
   padding: 1.5em;
 /*  max-width: 50em;*/
@@ -84,7 +82,7 @@ body {
 }
 .logo img {
 display:block;
-width: 50%;
+width: 40%;
 margin-left: auto;
 margin-right: auto;
 padding-bottom: 10px;
@@ -201,7 +199,8 @@ top: 0px;
 
 
 .footer img {
-  width:10%;
+  width:12em;
+  height: auto;
 }
 
 
@@ -285,6 +284,7 @@ top: 0px;
 .artists ul li img {
   display: block;
   width: 100%;
+  height: auto;
 }
 
 /*.inner > img {
@@ -293,10 +293,10 @@ top: 0px;
 /* Gallery
 -------------------------------------------------- */
 
-.responsive-image {
+/*.responsive-image {
   height: auto;
   width: 100%;
-}
+}*/
 #gallery{
   background-color: rgba(215,218,219,0.4);
   padding: 60px;
@@ -352,7 +352,7 @@ h4 {
   line-height: 1.5em;
   margin-top: 1em;
   margin-bottom: .5em;
-  color: red;
+  /*color: red;*/
 }
 h1 a, h2 a, h3 a, h4 a {
   color: inherit;
@@ -408,8 +408,9 @@ h1 a, h2 a, h3 a, h4 a {
 }
 .text figure img {
   margin-right: 1em;
- /* width: 50%;
-  height: 50%;*/
+  max-width: 100%;
+  height: auto;
+  display: inline-block;
 }
 
 /* Text blocks */
@@ -485,14 +486,15 @@ h1 a, h2 a, h3 a, h4 a {
 }
 .container {
   margin-top: 3em;
-  padding: 0.5em 1em 0 1.5em;
+  padding: 0.2em 1em 0 1.5em;
   background-color: #fff;
   height: 16em;
   border-radius: 0.5em;
 }
 .container img {
   float: left;
-  margin-right: 1.5em;
+  margin-right: 2em;
+  margin-left: 2em;
 }
 .colophon {
   float: right;
@@ -505,14 +507,14 @@ h1 a, h2 a, h3 a, h4 a {
 /* Footer
 -------------------------------------------------- */
 .text figure img {
-  display:block;
-    margin-right: auto;
-    margin-left:.2em;
-    /*width: 40%;*/
+  display: block;
+  margin-right: auto;
+  margin-left:.2em;
+  max-width: 100%;
+  height: auto;
 }
 .title p {
-      font-weight: bold;
+    font-weight: lighter;
     font-size: 1.5em;
     text-align: center;
-}
 }
