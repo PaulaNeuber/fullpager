@@ -1,7 +1,3 @@
-Image: sonic-the-machine.jpg
-
-----
-
 Title: Musiker
 
 ----

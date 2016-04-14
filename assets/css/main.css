@@ -199,7 +199,7 @@ top: 0px;
 
 
 .footer img {
-  width:12em;
+  width:10em;
   height: auto;
 }
 
@@ -390,7 +390,7 @@ h1 a, h2 a, h3 a, h4 a {
 }
 
 .main p{
-/*   width: 66%;*/
+  /* width: 80%;*/
    text-align: justify;
 }
 .main a:hover {
@@ -477,7 +477,7 @@ h1 a, h2 a, h3 a, h4 a {
 /* Footer
 -------------------------------------------------- */
 .footer {
-  padding: 1em 0 6em;
+  padding: 1em 0 1em;
   font-size: .8em;
 }
 .copyright {
@@ -493,7 +493,7 @@ h1 a, h2 a, h3 a, h4 a {
 }
 .container img {
   float: left;
-  margin-right: 2em;
+  margin-right: 1.5em;
   margin-left: 2em;
 }
 .colophon {
