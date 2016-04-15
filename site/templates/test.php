@@ -14,24 +14,34 @@
     <li data-target="#myCarousel" data-slide-to="1"></li>
     <li data-target="#myCarousel" data-slide-to="2"></li>
     <li data-target="#myCarousel" data-slide-to="3"></li>
+    <li data-target="#myCarousel" data-slide-to="4"></li>
+    <li data-target="#myCarousel" data-slide-to="5"></li>
+    <li data-target="#myCarousel" data-slide-to="6"></li>
+    <li data-target="#myCarousel" data-slide-to="7"></li>
   </ol>
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="img_chania.jpg" alt="Chania">
+      <img src="assets/images/slideshow/2015_Casino.jpg" alt="Casino">
     </div>
-
     <div class="item">
-      <img src="img_chania2.jpg" alt="Chania">
+      <img src="assets/images/slideshow/2015_Dose.jpg" alt="Dose">
     </div>
-
     <div class="item">
-      <img src="img_flower.jpg" alt="Flower">
+      <img src="assets/images/slideshow/2015_Hof.jpg" alt="Duo">
     </div>
-
     <div class="item">
-      <img src="img_flower2.jpg" alt="Flower">
+      <img src="assets/images/slideshow/2015_Hof2.jpg" alt="Hof II">
+    </div>
+    <div class="item">
+      <img src="assets/images/slideshow/2015_Hof2.jpg" alt="Hof III">
+    </div>
+    <div class="item">
+      <img src="assets/images/slideshow/2015_Hof3.jpg" alt="Hof III">
+    </div>
+    <div class="item">
+      <img src="assets/images/slideshow/2015_Luft.jpg" alt="Luft">
     </div>
   </div>
 
