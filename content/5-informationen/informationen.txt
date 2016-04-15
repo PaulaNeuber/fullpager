@@ -1,0 +1,11 @@
+Title: Informationen
+----
+
+Text:
+(image: timetable.png caption: Timetable Lange Nacht der Musik 2016)
+
+Die **LANGE NACHT DER MUSIK** findet seit 2010 einmal jährlich am 30. April in Friedrichshafen statt. Von Studenten der Zeppelin Universität organisiert bietet sich hier den Besuchern ein vielfältiges Musikangebot mit unterschiedlichsten Künstlern und Musikern. Auf fünf verschiedenen Bühnen wird dabei im Kulturhaus Caserne am Fallenbrunnen ein qualitativ hochwertiges Programm quer durch sämtliche musikalischen Genres gestaltet. Im Laufe der Jahre hat sich die Lange Nacht der Musik so als abwechslungsreiche und kurzweilige Veranstaltung mit immer wieder neuen musikalischen Eindrücken etabliert.
+
+The **LANGE NACHT DER MUSIK** is organized by students from Zeppelin University. It takes place each year on the 30th of April in Friedrichshafen. This cultural highlight in the Fallenbrunnen area combines musical contributions from musicians and music groups - regional as well as nationwide. On various stages there is being offered a wide range of performances across different genres: from classical and jazz music to electronic music and rap, only to mention a few.
+
+----
