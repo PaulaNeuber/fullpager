@@ -5,9 +5,9 @@
     </div>
     <table style="width:100%">
       <tr>
-        <td>Buchhandlung Gessler 1862
+        <td>  <img src="<?php echo url('assets/images/gessler.jpg') ?>" alt="<?php echo $site->title()->html() ?>" /> 
         </td>
-        <td>Café im Rathaus
+        <td>  <img src="<?php echo url('assets/images/rathauscafe.jpg') ?>" alt="<?php echo $site->title()->html() ?>" /> 
         </td>
         <td>Zeppelin Universität
         </td> 
