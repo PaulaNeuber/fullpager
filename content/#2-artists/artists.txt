@@ -1,5 +1,0 @@
-
-----
-
-image: sonic-the-machine.jpg
-----

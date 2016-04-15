@@ -1,9 +1,0 @@
-Title: Musiker
-
-----
-
-Heading: Fünfzig Musiker spielen nur für euch! Hier geht's los:
-
-----
-
-Text: 
