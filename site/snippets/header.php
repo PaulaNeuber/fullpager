@@ -4,7 +4,11 @@
   <link rel="shortcut icon" type="image/x-icon" href="http://lange-nacht-fn.de.w0146c92.kasserver.com/content/lndm/favicon.ico">
   <!-- Latest compiled and minified CSS -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<<<<<<< HEAD
   
+=======
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+>>>>>>> 7432e34d30bce0a53caeb8823025797a33679942
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
 

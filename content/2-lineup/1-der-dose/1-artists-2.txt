@@ -1,0 +1,9 @@
+Title: Der Dose
+
+----
+
+Text: 
+
+# Der Dose
+(image: derdose.jpg)
+Lorem Ipsum

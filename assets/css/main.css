@@ -511,7 +511,11 @@ h1 a, h2 a, h3 a, h4 a {
   display:block;
     margin-right: auto;
     margin-left:.2em;
+<<<<<<< HEAD
     width: 100%;
+=======
+    /*width: 40%;*/
+>>>>>>> 7432e34d30bce0a53caeb8823025797a33679942
 }
 .title p {
     font-weight: bold;
