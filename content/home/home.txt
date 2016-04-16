@@ -1,14 +1,8 @@
-<<<<<<< HEAD
 Title: 50 Musiker, 15 Genres, 5 Bühnen. EINE NACHT!
-=======
-Title: 50 Musiker, 15 Genres, 5 Bühnen. EINE NACHT
->>>>>>> 7432e34d30bce0a53caeb8823025797a33679942
 
 ----
 
 Text: 
-
-<<<<<<< HEAD
 Am 30. April 2016 findet die siebte LANGE NACHT DER MUSIK in Friedrichshafen statt.
 
 Die LANGE NACHT DER MUSIK feiert die besondere Vielfalt der Musik!
@@ -20,13 +14,5 @@ Kulturhaus Caserne, Fallenbrunnen 17, 88045 Friedrichshafen**
 
 In den nächsten Wochen werden hier auf der Seite alle Musiker und Bands, die ihr am 30.04. sehen könnt, vorgestellt.
 Also: stay tuned!
-=======
-Freut Euch schon auf die Lange Nacht der Musik 2016 - wieder am **30. April** im Kulturhaus Caserne in Friedrichshafen!
- 
-In den nächsten Wochen und Monaten werden hier laufend die 21 Acts  vorgestellt. Außerdem gibt es hier alle wichtigen Informationen rund um die Veranstaltung.
- 
-Stay tuned!
 
-
-(youtube: https://www.youtube.com/embed/P2QVCR8yadM width: 500 height: 300)
->>>>>>> 7432e34d30bce0a53caeb8823025797a33679942
+----
