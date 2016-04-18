@@ -6,6 +6,6 @@ Heading: Fünf Bühnen warten auf euch!
 
 ----
 
-Text: (image: timetable.png caption: Das gesamte Programm der LANGEN NACHT DER MUSIK 2016)
+Text: (image: timetable2.png caption: Das gesamte Programm der LANGEN NACHT DER MUSIK 2016)
 
 ----
