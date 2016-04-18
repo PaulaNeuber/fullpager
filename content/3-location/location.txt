@@ -2,13 +2,11 @@ Title: Location
 
 ----
 
-Heading: Hier findet die Lange Nacht der Musik statt!
+Heading: Kulturhaus Caserne
 
 ----
 
-Text: (image: Kaserne.png width: 600)
-
-Kulturhaus Caserne
+Text:
 Fallenbrunnen 17
 88045 Friedrichshafen
 

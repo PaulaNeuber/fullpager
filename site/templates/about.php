@@ -1,22 +1,22 @@
 <?php snippet('header') ?>
 
   <main class="main" role="main">
+    <h1><?php echo $page->heading()->html() ?></h1>
+   
+    <div class="about" >
 
-    
-      <h1><?php echo $page->heading()->html() ?></h1>
-      <hr>
-      <div class="about">
-      <?php echo $page->text()->kirbytext() ?>
-      </div>
-
-     
-       <h1><?php echo $page->heading2()->html() ?></h1>
-
-       <div class="about">
-      <hr>
-      <?php echo $page->text2()->kirbytext() ?>
-      </div>
-    
+      <?php echo $page->deutsch()->kirbytext() ?>
+      <?php echo $page->english()->kirbytext() ?>
+    </div>
+     <hr>
+    <div class="team" >
+    <h1><?php echo $page->heading2()->html() ?></h1>
+  
+       
+        <img src="<?php echo url('assets/images/team.jpg') ?>" alt="<?php echo $site->title()->html() ?>">
+        <?php echo $page->text2()->kirbytext() ?>
+  </div>
+     <hr>
 
   </main>
 
