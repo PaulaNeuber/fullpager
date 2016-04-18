@@ -373,12 +373,6 @@ h1 a, h2 a, h3 a, h4 a {
   height: 2px;
   background: #ddd;
 }
-
-.artist hr {
-  margin: 3em 0;
-  height: 2px;
-  background: #ddd;
-}
 .main p,
 .main ul,
 .main ol {

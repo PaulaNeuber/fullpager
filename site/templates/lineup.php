@@ -6,7 +6,7 @@
       <h1><?php echo $page->heading()->html() ?></h1>
       <?php echo $page->text()->kirbytext() ?>
     </div>
-<hr>
+
       <ul><!-- 
          --><?php foreach($page->children()->visible() as $artist): ?><!-- 
            --><li>

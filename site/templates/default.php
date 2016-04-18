@@ -4,10 +4,8 @@
 
     <div class="text">
       <h1><?php echo $page->heading()->html() ?></h1>
-      <hr>
       <?php echo $page->text()->kirbytext() ?>
     </div>
-    
 
   </main>
 
