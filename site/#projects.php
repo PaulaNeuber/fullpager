@@ -1,9 +1,0 @@
-modify=20160413204530;perm=flcdmpe;type=cdir;unique=804U688200D;UNIX.group=1136;UNIX.mode=0755;UNIX.owner=1765; .
-modify=20160416000714;perm=adfrw;size=847;type=file;unique=804U6880074;UNIX.group=1136;UNIX.mode=0644;UNIX.owner=1765; header.php
-modify=20160413204509;perm=flcdmpe;type=pdir;unique=804U6882002;UNIX.group=1136;UNIX.mode=0755;UNIX.owner=1765; ..
-modify=20160415235857;perm=adfrw;size=720;type=file;unique=804U6880076;UNIX.group=1136;UNIX.mode=0644;UNIX.owner=1765; menu.php
-modify=20160413204530;perm=adfrw;size=862;type=file;unique=804U68800A7;UNIX.group=1136;UNIX.mode=0644;UNIX.owner=1765; lineup.php
-modify=20160413080140;perm=adfrw;size=862;type=file;unique=804U6880072;UNIX.group=1136;UNIX.mode=0644;UNIX.owner=1765; artists.php
-modify=20160415235857;perm=adfrw;size=1071;type=file;unique=804U6880073;UNIX.group=1136;UNIX.mode=0644;UNIX.owner=1765; footer.php
-modify=20160415235857;perm=adfrw;size=289;type=file;unique=804U6880075;UNIX.group=1136;UNIX.mode=0644;UNIX.owner=1765; lndm.php
-modify=20160415235857;perm=adfrw;size=637;type=file;unique=804U68800A4;UNIX.group=1136;UNIX.mode=0644;UNIX.owner=1765; #projects.php

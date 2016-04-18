@@ -1,13 +1,11 @@
-Image: sonic-the-machine.jpg
 
 ----
 
-Title: Lineup
+Title: Musiker
 
 ----
 
 Heading: Fünfzig Musiker spielen nur für euch!
-
 ----
 
 Text: 
