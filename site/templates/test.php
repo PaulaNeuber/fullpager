@@ -19,11 +19,12 @@
     <li data-target="#myCarousel" data-slide-to="6"></li>
     <li data-target="#myCarousel" data-slide-to="7"></li>
   </ol>
-
+"<?php echo url('assets/images/logo.jpg') ?>"
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="assets/images/slideshow/2015_Casino.jpg" alt="Casino">
+      <img src="<?php echo url('assets/images/slideshow/2015_Casino.jpg') ?>"
+
     </div>
     <div class="item">
       <img src="assets/images/slideshow/2015_Dose.jpg" alt="Dose">
