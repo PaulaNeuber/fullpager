@@ -4,6 +4,7 @@
 
     <div class="text">
       <h1><?php echo $page->heading()->html() ?></h1>
+      <hr>
       <?php echo $page->text()->kirbytext() ?>
     </div>
 
@@ -17,7 +18,7 @@
                   <div class="overlay">
                     <div class="overlay__inner">
                       <?php echo $artist->title() ?>
-                   </div>
+                    <div class="overlay">
                   </div>
                 </div>
                 <a class="link" href="<?php echo $artist->url() ?>"></a>
