@@ -3,6 +3,7 @@ Title: Tickets
 ----
 
 headline: Vorverkaufsstellen
+Text:
 Karten im Vorverkauf für die LANGE NACHT DER MUSIK sind an folgenden Stellen erhältlich:
 
 Buchhandlung Gessler 1862, Friedrichstraße 53, 88045 Friedrichshafen
