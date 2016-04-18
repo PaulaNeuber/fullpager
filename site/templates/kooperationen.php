@@ -15,7 +15,9 @@
     </div>
    <hr>
    <h1><?php echo $page->heading3()->html() ?></h1>
+   <img src="<?php echo url('assets/images/jolof.jpg') ?>" class="imgclass">
     <div class="jolof" >
+
       <?php echo $page->text3()->kirbytext() ?>
     </div>
    <hr>
