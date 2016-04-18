@@ -4,10 +4,10 @@
 
     <div class="text">
       <h1><?php echo $page->heading()->html() ?></h1>
-      <hr>
+      
       <?php echo $page->text()->kirbytext() ?>
     </div>
-
+<hr>
   </main>
 
 <?php snippet('footer') ?>
