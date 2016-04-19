@@ -3,6 +3,10 @@
   <div class="title">
       <?php echo $page->headline()->kirbytext() ?>
     </div>
+    <div class="text">
+      <h1><?php echo $page->heading()->html() ?></h1>
+      <?php echo $page->text()->kirbytext() ?>
+    </div>
     <table style="width:100%">
       <tr>
         <td>  <img src="<?php echo url('assets/images/gessler.jpg') ?>" alt="<?php echo $site->title()->html() ?>" /> 
