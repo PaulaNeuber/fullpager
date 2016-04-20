@@ -2,7 +2,14 @@ Title: Tickets
 
 ----
 
+<<<<<<< HEAD
 headline: Vorverkaufsstellen
+=======
+Text:
+Vorverkaufsstellen
+
+Karten im Vorverkauf für die LANGE NACHT DER MUSIK sind an folgenden Stellen erhältlich:
+>>>>>>> origin/master
 
 
 VVK-Preis: 11€; AK am 30. April ab 18 Uhr: 14€
