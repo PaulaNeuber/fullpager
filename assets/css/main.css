@@ -600,3 +600,13 @@ h1 a, h2 a, h3 a, h4 a {
 .start {
   margin-top: 200px;
 }
+
+.team p {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+    margin-top: 0px;
+    margin-bottom: 2px;
+    padding-bottom: 0.5em;
+    padding-top: 2em;
+}
