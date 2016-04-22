@@ -1,10 +1,7 @@
 Title: Tickets
 
 ----
-
-headline: Vorverkaufsstellen
-
-
-VVK-Preis: 11€; AK am 30. April ab 18 Uhr: 14€
+Text:
+Vorverkaufs-Preis: 11€ & Abendkasse ab 18 Uhr: 14€
 
 ----

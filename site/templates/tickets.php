@@ -2,18 +2,20 @@
   <main class="main" role="main">
   <div class="title">
       <?php echo $page->headline()->kirbytext() ?>
+      <?php echo $page->text()->kirbytext() ?> <br>
     </div>
+
     <div class="vvk">
       <table style="width:100%">
         <tr>
-          <td>  <img src="<?php echo url('assets/images/gessler.jpg') ?>" alt="<?php echo $site->title()->html() ?>" /> 
-          </td>
-          <td>  <img src="<?php echo url('assets/images/rathauscafe.jpg') ?>" alt="<?php echo $site->title()->html() ?>" /> 
-          </td>
-          <td>  <img src="<?php echo url('assets/images/zu.jpg') ?>" alt="<?php echo $site->title()->html() ?>" /> 
-          </td>
-          <td>  <img src="<?php echo url('assets/images/burges.jpg') ?>" alt="<?php echo $site->title()->html() ?>" /> 
-          </td>
+          <th>  <img src="<?php echo url('assets/images/gessler.jpg') ?>" alt="<?php echo $site->title()->html() ?>" /> 
+          </th>
+          <th>  <img src="<?php echo url('assets/images/rathauscafe.jpg') ?>" alt="<?php echo $site->title()->html() ?>" /> 
+          </th>
+          <th>  <img src="<?php echo url('assets/images/zu.jpg') ?>" alt="<?php echo $site->title()->html() ?>" /> 
+          </th>
+          <th>  <img src="<?php echo url('assets/images/burges.jpg') ?>" alt="<?php echo $site->title()->html() ?>" /> 
+          </th>
         </tr>
         <tr>
           <td>Buchhandlung Gessler 1862
