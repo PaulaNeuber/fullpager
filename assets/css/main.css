@@ -587,3 +587,16 @@ h1 a, h2 a, h3 a, h4 a {
     padding-bottom: 0.5em;
     padding-top: 2em;
 }
+.home {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+    margin-top: 0px;
+    margin-bottom: 2px;
+    padding-bottom: 0.5em;
+    padding-top: 2em;
+}
+
+.start {
+  margin-top: 200px;
+}
