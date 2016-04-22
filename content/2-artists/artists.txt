@@ -1,11 +1,13 @@
+Image: sonic-the-machine.jpg
 
 ----
 
-Title: artists
+Title: Artists
 
 ----
 
 Heading: Fünfzig Musiker spielen nur für euch!
+
 ----
 
 Text: 
