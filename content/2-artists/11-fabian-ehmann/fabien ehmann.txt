@@ -1,15 +1,16 @@
-Title: Fabian Ehmann (GTN8, Select - Aalen)
+Title: Fabian Ehmann <br>(GTN8, Select - Aalen)
 
 ----
 
-Text: 
+Iframe: <iframe width="100%" height="250" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/197775065&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+----
 
-#Fabian Ehmann (GTN8, Select - Aalen)
-(image: lehmann.jpg)
+Text:
+#Fabian Ehmann <br>(GTN8, Select - Aalen) 
 Der Bass bringt die Boxen zum Vibrieren, der Körper verliert sich im Takt der Musik. Die Augen geschlossen, der Schweiß auf der Stirn. Ein Gefühl der Schwerelosigkeit das die tanzenden Massen verbindet. Was wäre eine Feier ohne solche Momente? Eben. 
-
 Damit wir dieses Jahr auch daran keinen Mangel erleiden, gibt sich der aus Aalen stammende DJ Fabian Ehmann Ende April die Ehre und kommt uns zur Langen Nacht der Musik am Bodensee besuchen. Schon früh ist Ehmann dem wunderbaren Phänomen namens Musik anheim gefallen. Bis zum zarten Alter von 13 Jahren war die Trompete das Ventil der Wahl um die Leidenschaft zur Musik auszudrücken, diese musste sich dann aber im Buhlen um Ehmanns Gunst gegen elektronische Musik geschlagen geben. Im stattlichen Alter von 15 Jahren gab es dann die ersten Turntables. 
 
 Der frühe Einstieg zeigt sich deutlich in der Musik des inzwischen 22-jährigen. Wer Ehmann hört, bekommt Emotionen. Und das in einer Vielfalt und Varianz die Seinesgleichen sucht. Die Bandbreite der Sets reicht von gemütlich sommerlichen Beats zum fahren mit offenen Verdeck bis hin zum intensiven Rave um 5 Uhr morgens der einen am Tag danach im Dreieck laufen lässt.
-
-https://soundcloud.com/fabianehmann
+---- 
+facebook:
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ffabianehmannofficial%2F%3Ffref%3Dts&tabs&width=340&height=130&small_header=false&adapt_container_width=false&hide_cover=false&show_facepile=false&appId" width="340" height="130" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>

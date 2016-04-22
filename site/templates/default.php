@@ -1,13 +1,16 @@
 <?php snippet('header') ?>
-
   <main class="main" role="main">
-
-    <div class="text">
-      <h1><?php echo $page->heading()->html() ?></h1>
-      
-      <?php echo $page->text()->kirbytext() ?>
+    <div id="wrapper">
+      <div id="soundcloud">
+        <?php echo $page->iframe()->kirbytext() ?>
+      </div>
     </div>
-<hr>
+    
+    <div class="artisttext">
+      <?php echo $page->text()->kirbytext() ?>
+      <?php echo $page->facebook()->kirbytext() ?>  
+    </div>
+    <hr>
   </main>
 
 <?php snippet('footer') ?>

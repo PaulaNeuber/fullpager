@@ -2,15 +2,17 @@ Title: Wassily
 
 ----
 
+iframe: <iframe width="100%" height="250" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/184048135&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+----
 Text: 
 
 # Wassily
-
-(image: wassily.jpg)
 
 Basil Kehl, der Sänger und Produzent der St.Galler DACHS-Band hat nun ein Soloprojekt am Start: WASSILY. 
 WASSILY verzaubert die Zuhörer mit seiner "electronic dream drama music“, die sich irgendwo zwischen Electronic Dreampop, EDM und Hip Hop bewegt und housige Beats mit melodischen Rhythmen zusammenbringt. 
 Ob beim Radiosender SRF Virus oder auf der Langen Nacht der Musik - WASSILY live zu erleben ist etwas, das man sich nicht entgehen lassen sollte. Lasst euch treiben in einem Meer verträumter Klänge, die euch WASSILY am 30. April von 22 bis 23.30 Uhr auf der Zeltbühne im Innenhof liefern wird. Begleitet wird der Auftritt von einer Malaktion, zu der wir alle Besucher schon jetzt einladen wollen!
 
-https://www.facebook.com/Wassilymusic/?fref=ts
-https://soundcloud.com/wassilymusic
+---- 
+facebook:
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FWassilymusic%2F%3Ffref%3Dts&tabs&width=340&height=130&small_header=false&adapt_container_width=false&hide_cover=false&show_facepile=false&appId" width="340" height="130" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+---- 

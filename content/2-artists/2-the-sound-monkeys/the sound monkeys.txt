@@ -5,7 +5,6 @@ Title: The Sound Monkeys
 Text: 
 
 #The Sound Monkeys
-(image: sound_monkeys.jpg)
 
 Wer wünscht sich nicht, vielleicht inspiriert durch den ein oder anderen Ami-Film, neben einer Familie mit rebellischem Kind zu wohnen das immer seine rebellischen Freunde in seine rebellische Garage einlädt um rebellische Musik zu machen? Genau, das wünscht sich vermutlich niemand so wirklich. 
 
@@ -13,4 +12,8 @@ Im Fall von Jonas, Freya und Philip, auch die Sound Monkeys genannt, ist diese M
 
 Was die lyrische Beflissenheit angeht kann man den Sound Monkeys auch nichts anstreichen. Typisch punkig gibt es natürlich die obligatorische Portion Gesellschaftskritik, aber auch die Vergänglichkeit von Freundschaft und Zeit und die Angst vorm Ende der Nacht werden angesprochen. Im gleichen Atemzug mit Tony Hawk und einem N64. Wie das zusammenpasst werden wir wohl am 30. April am eigenen Leib erfahren! 
 
-https://thesoundmonkeys.bandcamp.com
+
+---- 
+facebook:
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fthesoundmonkeys%2F&tabs&width=340&height=130&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="340" height="130" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+---- 

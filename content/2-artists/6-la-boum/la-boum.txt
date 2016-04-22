@@ -1,11 +1,13 @@
 Title: La-Boum
 
 ----
+iframe: 
+(youtube: https://www.youtube.com/watch?v=TJ1ocXGQLXk width: 100% height: 250)
+----
 
 Text: 
 
 #La-Boum
-(image: laboum.jpg)
 La Boum ist die musikalische Variante von dem, was amerikanische Teenies aus der Mittelschlicht machen um vor dem College noch einige „Erfahrungen zu sammeln“. Eine Europareise durch die großen und kleinen Metropolen unseres Kontinents. Am Sonntagmorgen durch das Viertel Le Marais in Paris flanieren ? Zum Mittag in Rom den wohligen Geruch frisch gebackener Steinofenpizza inhalieren? Und dann abends bei ein paar Drinks an der Spree in Berlin sitzen? Die Band aus Nürnberg machts möglich. Ob großer Club, kleine Bar, Straße, oder auch nur die aufgedrehte Anlage in der verschlafenen Kleinstadt, der Städtetrip in totaler Trance ist mit dabei.
 
 Wer La Boum erlebt, erlebt Vielfalt. Sie sind ein Melting-Pot in musikalischer Form. Anlage aufgedreht, Augen zu, und ab gehts auf eine Spritztour mit einer klapprigen Ente und verrückten Freunden über Europas abgenutzte Straßen. So fühlt sich die Musik an, denn das ist es, wo die sechs Nürnberger ihre Seele gefunden haben. Traditionstreu packt die Band jedes Jahr ihre sieben Sachen und beglückt Ahnungslose mit spontanen Gigs. Vorzugsweise mit täglich wechselnden Locations. Clubs werden dabei weitesgehend boykottiert, denn La Boum passiert auf der Straße: ungeschönt, authentisch, temporeich.
@@ -14,6 +16,4 @@ Mitgenommen hat das Gespann von seinen Reisen alles außer Elektronik. Man kann 
 Und Fernweh gibts oben drauf.
 
 La- Boum wird am 30. April von 21 bis 22.10 auf der Stadtwerk am See - Bühne zu hören sein! 
-
-http://www.la-boum.de/band.html
-https://www.youtube.com/watch?v=TJ1ocXGQLXk
+----

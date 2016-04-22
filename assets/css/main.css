@@ -33,7 +33,7 @@ a {
   transition: color .3s, background .3s, border .3s;
 }
 a:hover {
-  color: red;
+  color: white;
 }
 
 
@@ -373,7 +373,7 @@ h1 a, h2 a, h3 a, h4 a {
   height: 2px;
   background: #ddd;
 }
-.main p,
+/*.main p,*/
 .main ul,
 .main ol {
   margin-bottom: 1.5em;
@@ -514,13 +514,6 @@ h1 a, h2 a, h3 a, h4 a {
 }
 
 
-#myCarousel {
-  width: 80%;
-  margin-right: auto;
-  margin-left: auto;
-}
-
-
 .about {
     -webkit-column-count: 2; /* Chrome, Safari, Opera */
     -moz-column-count: 2; /* Firefox */
@@ -572,4 +565,25 @@ h1 a, h2 a, h3 a, h4 a {
 
 .timetable img {
   width: 100%
+}
+
+#wrapper {
+  width: 100%;
+  overflow: auto;
+}
+
+#soundcloud {
+  width: 100%;
+  display:inline-block;
+  float:right;
+}
+
+.artisttext {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+    margin-top: 0px;
+    margin-bottom: 2px;
+    padding-bottom: 0.5em;
+    padding-top: 2em;
 }

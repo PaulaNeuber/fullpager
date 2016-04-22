@@ -2,17 +2,18 @@ Title: Pornophonique
 
 ----
 
+iframe: <iframe width="100%" height="250" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1413428&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+----
 Text: 
 
-#Pornophonique
-(image:pornophonique.jpg)
-	 	
-„eine gitarre. ein gameboy. ein c64. zwei typen. space invaders samples. lagerfeuergeschrabbel. gameboygedudel. auch gesang mit dabei. lowtech.lo-fi. micro. porn.ich blinke, also bin ich!“
+#Pornophonique	 	
+_eine gitarre. ein gameboy. ein c64. zwei typen. space invaders samples. lagerfeuergeschrabbel. gameboygedudel. auch gesang mit dabei. lowtech.lo-fi. micro. porn.ich blinke, also bin ich!_ <br><br>
 
-Mit dieser minimalistisch gehaltenen Aneinanderreihung von Worten die an 8-bit erinnert beschreibt sich das aus Darmstadt stammende Duo, bestehend aus Kai Richter und Felix Heuser, selbst. Hört sich nerdig an? So ist es auch. Und das nicht zu knapp. Wer Pornophonique hört fühlt sich zurückversetzt in eine Zeit in der GTA noch aus der Vogelperspektive gezockt wurde und Ladezeiten von unter einer Minute einem 5 Sterne Ferienressort gleichkamen. 
 
-Passend hierzu gesellt sich die kleine aber feine Anekdote, dass sich die beiden (Musik-)Nerds bei einem Comic-Händler kennengelernt haben. In eben jener Szene kann das Duo nun auch eine Fangemeinde vorweisen die nicht von schlechten Zeichnern stammt. Das Cover für die Single „Lemmings in Love“ hat der deutsche Cartoonist Joscha Sauer (NICHTLUSTIG) entworfen. Der Comiczeichner Flix hat sogar Referenzen auf Pornophonique in seine Comics eingebracht. 
 
-Die exotisch anmutende Mischung aus Gitarrengeklimper, Gesang und 8-Bit-Tunes   klingt komisch, ist auch so und macht dabei verdammt viel Spaß. 
+Mit dieser minimalistisch gehaltenen Aneinanderreihung von Worten die an 8-bit erinnert beschreibt sich das aus Darmstadt stammende Duo, bestehend aus Kai Richter und Felix Heuser, selbst. Hört sich nerdig an? So ist es auch. Und das nicht zu knapp. Wer Pornophonique hört fühlt sich zurückversetzt in eine Zeit in der GTA noch aus der Vogelperspektive gezockt wurde und Ladezeiten von unter einer Minute einem 5 Sterne Ferienressort gleichkamen. Passend hierzu gesellt sich die kleine aber feine Anekdote, dass sich die beiden (Musik-)Nerds bei einem Comic-Händler kennengelernt haben. In eben jener Szene kann das Duo nun auch eine Fangemeinde vorweisen die nicht von schlechten Zeichnern stammt. Das Cover für die Single „Lemmings in Love“ hat der deutsche Cartoonist Joscha Sauer (NICHTLUSTIG) entworfen. Der Comiczeichner Flix hat sogar Referenzen auf Pornophonique in seine Comics eingebracht. Die exotisch anmutende Mischung aus Gitarrengeklimper, Gesang und 8-Bit-Tunes   klingt komisch, ist auch so und macht dabei verdammt viel Spaß. 
 
-http://pornophonique.de
+----
+facebook:
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fpornophonique-251177225719%2F%3Ffref%3Dts&tabs&width=340&height=130&small_header=false&adapt_container_width=false&hide_cover=false&show_facepile=false&appId" width="340" height="130" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
