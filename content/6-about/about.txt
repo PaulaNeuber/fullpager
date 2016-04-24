@@ -20,7 +20,11 @@ heading2: Team
 ----
 text2:
 
-
-
 _mit:_ Ildiko Gartner, Rebekka Koch, Clara Zimmermann, Andreas Schellewald, Paula Neuber, Billy Contreras, Jamin Schneider, Jonathan Dudek, Nils Philippi. _Nicht auf dem Foto:_ Luise Kunz, Elias Keßler, Franziska Möhrle, Britta Ullrich _(Fotograf: Eric Holst)_
+----
+heading3: Kontakt
+----
+text3:
+
+
 ----

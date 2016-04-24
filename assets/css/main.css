@@ -284,35 +284,7 @@ top: 0px;
 }
 
 
-/* Gallery
--------------------------------------------------- */
-.responsive-image {
-  height: auto;
-  width: 100%;
-}
-#gallery{
-  background-color: rgba(215,218,219,0.4);
-  padding: 60px;
-  border-radius: 0px 0px 0px 0px;
-  padding-right:60px;
-  padding-left:60px;
 
-}
-
-.gallery img {
-  display: inline-block;
-  width: 25%;
-  margin-right: 6.66665%;
-  overflow: hidden;
-  position: relative;
-}
-
-.gallery img {
-  display: float;
-  float: left;
-  width: 200%;
-  height: 200%;
-}
 
 /* Headings
 -------------------------------------------------- */
@@ -425,27 +397,6 @@ h1 a, h2 a, h3 a, h4 a {
   font-weight: 400;
   color: #000;
   padding-right: .25em;
-}
-
-
-/* Project teaser
--------------------------------------------------- */
-.teaser {
-  list-style: none;
-}
-.teaser li {
-  margin-bottom: 1.5em;
-  list-style: none;
-}
-@media screen and (min-width: 50em) {
-  .teaser li {
-    float: left;
-    width: 30%;
-    margin-left: 5%;
-  }
-  .teaser li:first-child {
-    margin-left: 0;
-  }
 }
 
 
@@ -607,11 +558,63 @@ h1 a, h2 a, h3 a, h4 a {
     padding-bottom: 0.5em;
     padding-top: 2em;
 }
-th {
+.vvk th {
     background-color: white;
     color: black;
 }
-/*.cs_skeleton {
-  margin-left: auto;
-  margin-right: auto;
-}*/
+
+/* Remove margins and padding from the list, and add a black background color */
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+/* Float the list items side by side */
+ul.navbar li {float: left;}
+
+/* Style the links inside the list items */
+ul.navbar li a {
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of links on hover */
+ul.navbar li a:hover {background-color: #111;}
+
+/* Hide the list item that contains the link that should open and close the topnav on small screens */
+ul.navbar li.icon {display: none;}
+
+/* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home"). Show the list item that contains the link to open and close the topnav (li.icon) */
+@media screen and (max-width:680px) {
+  ul.navbar li:not(.first) {display: none;}
+  ul.navbar li.icon {
+    float: right;
+    display: inline-block;
+  }
+}
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens */
+@media screen and (max-width:680px) {
+  ul.navbar.responsive {position: relative;}
+  ul.navbar.responsive li.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  ul.navbar.responsive li {
+    float: none;
+    display: inline;
+  }
+  ul.navbar.responsive li a {
+    display: block;
+    text-align: left;
+  }
+}
