@@ -18,7 +18,7 @@
                   <div class="overlay">
                     <div class="overlay__inner">
                       <?php echo $artist->title() ?>
-                    <div class="overlay">
+                    </div>
                   </div>
                 </div>
                 <a class="link" href="<?php echo $artist->url() ?>"></a>

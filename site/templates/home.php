@@ -7,8 +7,17 @@
     </div>
    
     <div class="home">
-      <?php echo $page->text()->kirbytext() ?>
-
+      <div class="home_column">
+        <?php echo $page->text1()->kirbytext() ?>
+      </div><!-- 
+       --><div class="home_column">
+        <?php echo $page->text2()->kirbytext() ?>
+      </div><!-- 
+       --><div class="home_social">
+          <div class="home_social__inner">
+            <?php echo $page->text3()->kirbytext() ?>
+          </div>
+      </div>
     </div>
  <hr id="start">
   </main>
